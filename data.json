@@ -1,0 +1,35 @@
+{
+  "series": [
+    {
+      "id": "jujutsu-kaisen",
+      "nombre": "Jujutsu Kaisen",
+      "portada": "1.png",
+      "descripcion": "",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "",
+          "audios": {
+            "espanol": ""
+          }
+        },
+        {
+          "numero": 2,
+          "titulo": "",
+          "audios": {
+            "Japones sub español": "https://drive.google.com/file/d/1OIgb5Y1pwT-wn1_Xq2W-XX-XgOtMjlI_/preview"
+
+          }
+        },
+        {
+          "numero": 3,
+          "titulo": "",
+          "audios": {
+            "Japones sub español": "https://drive.google.com/file/d/1gbM_m3sOR6Gi-vqmJQJ-YdIlYsA3Wwfa/preview"
+          }
+        }
+      ]
+    }
+  ],
+  "peliculas": []
+}
